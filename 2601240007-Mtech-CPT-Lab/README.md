@@ -1,4 +1,4 @@
-# Dheeraj MTech CTP Lab
+# CHARITHA MTech CTP Lab
 
 Python implementations of eight real-world problems based on searching, sorting, and array algorithms for the MTech CTP Practical Lab.
 
@@ -79,5 +79,5 @@ The first five programs cover the examples discussed in the lab material. The fi
 
 ## Author
 
-**Dheeraj**  
+**Charitha**  
 MTech CTP Practical Lab
